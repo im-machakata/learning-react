@@ -1,3 +1,3 @@
 # Learning React
 
-Alright, so I basically decided to  start with an easy todo project as on [Sololearn](//sololearn.com).
+To familiarize myself with React, I have followed an official tutorial from [https://reactjs.org/tutorial/tutorial.html](//https://reactjs.org/tutorial/tutorial.html).
