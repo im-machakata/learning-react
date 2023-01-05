@@ -10,7 +10,7 @@ class Hello extends React.Component {
   }
   render() {
     return (
-      <h1>{this.state.msg}</h1>
+      <h1>Hello there! I'm {this.props.names} and I'm currently learning some React basics.</h1>
     );
   }
 }

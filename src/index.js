@@ -3,6 +3,6 @@ import ReactDOM from 'react-dom';
 import Hello from './h1tag.jsx';
 
 ReactDOM.render(
-    <Hello/>,
+    <Hello names="Isaac Machakata"/>,
     document.getElementById('root')
 );
