@@ -1,8 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import Body from './h1tag.jsx';
+import Hello from './h1tag.jsx';
 
 ReactDOM.render(
-    Body,
+    <Hello/>,
     document.getElementById('root')
 );
